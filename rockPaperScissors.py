@@ -5,6 +5,7 @@ Created on Feb 1, 2020
 '''
 import random
 
+keepPlaying = True
 
 while(keepPlaying == True):
     print("Welcome")
